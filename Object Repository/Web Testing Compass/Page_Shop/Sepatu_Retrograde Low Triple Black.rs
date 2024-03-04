@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sepatu_Retrograde Low Triple Black</name>
+   <tag></tag>
+   <elementGuidId>3928cd05-b636-43ed-b462-6fdabd4b0b37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-6.col-lg-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e552d859-22c3-46f1-9cbf-e7a7be806eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-6 col-lg-4</value>
+      <webElementGuid>b412fb3a-8448-4c26-aefe-a75feb1ddaf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${RetrogradeLowTripleBlack}</value>
+      <webElementGuid>edace851-7a5c-46d8-b7ef-6f5fb50e65ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;animated fadeIn&quot;]/section[@class=&quot;pb-main sc-shop-all&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row row-4&quot;]/div[@class=&quot;col-lg-10&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component shop-infinite&quot;]/div[@class=&quot;row row-4&quot;]/div[@class=&quot;col-6 col-lg-4&quot;]</value>
+      <webElementGuid>147b827a-0217-4742-b1c3-02c0388390e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>ccbe0fde-fc99-4ffb-b488-ce110780c5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Size'])[1]/following::div[5]</value>
+      <webElementGuid>28ab4cf6-ea5e-4d0b-8155-4f72cad3781a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::div[20]</value>
+      <webElementGuid>af4e67dc-cf8e-4b13-9f61-07e5cf6a9895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retrograde Hi Decon Triple Black'])[1]/preceding::div[25]</value>
+      <webElementGuid>7a9d854c-8106-439e-ade8-9ce803e70791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>727a1bdd-2f89-4160-b879-06fb14710ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Retrograde Low Triple BlackIDR 538.000' or . = 'Retrograde Low Triple BlackIDR 538.000')]</value>
+      <webElementGuid>0699616f-2acb-470f-9acf-303d4a27f262</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
